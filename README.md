@@ -17,8 +17,7 @@ This project analyzes and visualizes the pricing of various UAE government servi
 
 ## 📂 Files
 - `uae-pricing.png` – Power BI dashboard screenshot
-- `UAE_Government_Dashboard.pbix` – Power BI file (optional)
-- `data.xlsx` – raw or processed data (optional)
+
 
 ## 👩‍💻 Author
 [Ruthika Thorat](https://ruthika619.github.io) – Aspiring Data Analyst
